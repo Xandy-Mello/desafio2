@@ -1,5 +1,13 @@
-# desafio2
-Gerenciamento e alteração no código fonte
+# Desafio 2 pdf 3 versionamento
+## Gerenciamento e alteração no código fonte
+
+## Tecnologias utilizadas:
+
+- VS CODE
+
+- Git Bash
 
 
-Desafio 2 pdf 3 versionamento
+
+
+
